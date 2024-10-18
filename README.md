@@ -6,6 +6,6 @@ Curso 2024/25
 
 1. Ejercicios propuestos en clase
   - [EJERCICIO1](unidad1/archivo1.md)
-  - [EJERCICIO2](https://github.com/Alberto2933/unidad1/blob/main/ejercicio2.md)
-  - [EJERCICIO3](https://github.com/Alberto2933/unidad1/blob/main/ejercicio3.md)
-  - [EJERCICIO4](https://github.com/Alberto2933/unidad1/blob/main/ejercicio4.md)
+  - [EJERCICIO2](unidad1/ejercicio2.md)
+  - [EJERCICIO3](unidad1/ejercicio3.md)
+  - [EJERCICIO4](unidad1/ejercicio4)
